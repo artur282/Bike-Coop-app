@@ -27,6 +27,7 @@ fun LoginScreem() {
             .fillMaxSize()
             .padding(16.dp)){
         Login(Modifier.align(Alignment.Center))
+        println()
     }
 
 }
